@@ -9,7 +9,7 @@ var site = {
     /* Change your skills and title accodingly */
     skills_title: ['Data Science', 'Cyber Security','Programming'],
     skills: [['Machine Learning', 'Deep Learning', 'MySQL'], ['Networking', 'Linux','Packet Tracer'],['C','C++','Python3','Data Structures']],
-    // skillp:[[100, 80 ,100, 60, 80], [50, 60, 50], [70,80,90,90]],
+    skillp:[[60, 50 ,60], [70, 90, 90], [70,90,90,80]],
     social: {
         /* Add your social media links here */
         github: 'https://github.com/sakshamchecker',
